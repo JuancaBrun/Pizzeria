@@ -3,7 +3,7 @@
 
 <channel>
   <title>Pizzería Milano</title>
-  <link>https://juancabrun.github.io/Pizzeria/index.html/</link>
+  <link>https://juancabrun.github.io/Pizzeria/Home/home.html</link>
   <description>Conoce todas las novedades de la pizzería.</description>
   <language>es</language>
   <image>
@@ -11,7 +11,7 @@
     <title>Pizzería Milano</title>
     <width>1000</width>
     <height>1000</height>
-    <link>https://juancabrun.github.io/Pizzeria/index.html/</link>
+    <link>https://juancabrun.github.io/Pizzeria/Home/home.html/</link>
   </image>
   <item>
     <title>¡Nueva apertura!</title>
