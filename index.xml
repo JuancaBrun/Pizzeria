@@ -8,6 +8,8 @@
   <image>
     <url>https://juancabrun.github.io/Pizzeria/media/pizzeria-local.jpg</url>
     <title>Pizzería Milano</title>
+    <width>100</width>
+    <height>50</height>
     <link>https://juancabrun.github.io/Pizzeria/</link>
   </image>
   <item>
