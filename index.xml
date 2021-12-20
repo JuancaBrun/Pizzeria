@@ -3,21 +3,21 @@
 
 <channel>
   <title>Pizzería Milano</title>
-  <link>https://github.com/JuancaBrun/Pizzeria/index.html</link>
+  <link>https://juancabrun.github.io/Pizzeria/index.html</link>
   <description>Conoce todas las novedades de la pizzería.</description>
   <image>
-    <url>https://github.com/JuancaBrun/Pizzeria/media/pizzeria-local.jpg</url>
+    <url>https://juancabrun.github.io/Pizzeria/media/pizzeria-local.jpg</url>
     <title>Pizzería Milano</title>
-    <link>https://github.com/JuancaBrun/Pizzeria/</link>
+    <link>https://juancabrun.github.io/Pizzeria/</link>
   </image>
   <item>
     <title>¡Nueva apertura!</title>
     <author>Juan Carlos Brun</author>
   <category>Restaurante</category>
   <description>
-  <![CDATA[ <img align="left" hspace="8" src="https://pizzeria-1b599.web.app/media/pizzeria-local.jpg"/><br /> ]]>
+  <![CDATA[ <img align="left" hspace="8" src="https://juancabrun.github.io/Pizzeria/media/pizzeria-local.jpg"/><br /> ]]>
 Imagen del restaurante.</description>
-    <link>https://github.com/JuancaBrun/Pizzeria/containers/Products/Products.html#Masa_finissima</link>
+    <link>https://juancabrun.github.io/Pizzeria/containers/Products/Products.html#Masa_finissima</link>
     <description>Los mejores ingredientes en esta lista.</description>
   </item>
   <item>
@@ -26,12 +26,12 @@ Imagen del restaurante.</description>
     <category>Novedades</category>
     <enclosure>
     <image>
-  <url>https://github.com/JuancaBrun/Pizzeria/media/noticia2.jpg</url>
+  <url>https://juancabrun.github.io/Pizzeria/media/noticia2.jpg</url>
   <title>Novedades 2021</title>
-  <link>https://github.com/JuancaBrun/Pizzeria</link>
+  <link>https://juancabrun.github.io/Pizzeria</link>
 </image>
 </enclosure>
-    <link>https://github.com/JuancaBrun/Pizzeria/containers/Team/Team.html</link>
+    <link>https://juancabrun.github.io/Pizzeria/containers/Team/Team.html</link>
     <description>Conoce a la familia de la pizzería.</description>
   </item>
 </channel>
