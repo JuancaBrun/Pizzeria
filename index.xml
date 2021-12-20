@@ -17,7 +17,7 @@
     <author>Juan Carlos Brun</author>
   <category>Restaurante</category>
   <description>
-  <![CDATA[ <img align="left" hspace="8" src="https://juancabrun.github.io/Pizzeria/media/pizzeria-local.jpg"/><br /> ]]>
+  <![CDATA[ <img align="left" hspace="8" width="50" height="50" src="https://juancabrun.github.io/Pizzeria/media/pizzeria-local.jpg"/><br /> ]]>
 Imagen del restaurante.</description>
     <link>https://juancabrun.github.io/Pizzeria/containers/Products/Products.html#Masa_finissima</link>
     <description>Los mejores ingredientes en esta lista.</description>
